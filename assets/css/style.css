@@ -1,0 +1,14 @@
+
+.container_cards{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.card_item{
+    width: 250px;
+}
+
+.card_item img{
+    width: 100%;
+}
